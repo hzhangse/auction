@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/web.xml=GBK
+encoding//src/com/train/auction/action/AddItemAction.properties=GBK
+encoding//src/messageResource.properties=GBK
